@@ -14,7 +14,7 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "lodash": "^4.17.4",
+        "lodash": "^4.17.19",
         "@babel/core": "^7.0.0",
         "@babel/runtime-corejs2": "^7.0.0",
         "@wordpress/babel-preset-default": "^2.1.0",
